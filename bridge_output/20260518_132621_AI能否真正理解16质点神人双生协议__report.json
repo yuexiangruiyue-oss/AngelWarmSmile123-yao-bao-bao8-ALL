@@ -1,0 +1,17 @@
+{
+  "topic": "AI能否真正理解16质点神人双生协议？",
+  "depth": "quick",
+  "features": {
+    "info_density": 0.864222,
+    "logic_strength": 0.111111,
+    "sentiment": 0.692308,
+    "abstraction": 0.903226,
+    "depth": 0.111111,
+    "multidisciplinary": 1.0,
+    "length_factor": 0.659,
+    "structure": 0.138889
+  },
+  "conversation_length": 4,
+  "total_chars": 1318,
+  "sephirot_file": "D:\\Cute Flower\\2026-05-18-task-1\\sephirot-rs\\bridge_output\\20260518_132621_AI能否真正理解16质点神人双生协议_.sephirot"
+}
